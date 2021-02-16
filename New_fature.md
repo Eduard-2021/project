@@ -1,2 +1,2 @@
-New new feature
+ new feature
 New feature2
